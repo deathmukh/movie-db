@@ -1,6 +1,4 @@
-# Movie Database Website
 
-Demo: https://reels.netlify.app/
 
 ## Tools used:
 
